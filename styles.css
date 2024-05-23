@@ -64,13 +64,13 @@ section{
     height: 500px;
 }
 .bg1{
-    background-image: url(./sport-1.jpg);
+    background-image: url("https://github.com/akash-9963/parallax-website/blob/main/sport-1.jpg?raw=true");
 }
 .bg2{
-    background-image: url(./sport-2.jpg);
+    background-image: url("https://github.com/akash-9963/parallax-website/blob/main/sport-2.jpg?raw=true");
 }
 .bg3{
-    background-image: url(./sport-3.jpg);
+    background-image: url("https://github.com/akash-9963/parallax-website/blob/main/sport-3.jpg?raw=true");
 }
 .description{
     position: absolute;
